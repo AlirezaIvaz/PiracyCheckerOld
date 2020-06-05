@@ -1,5 +1,6 @@
 # PiracyChecker &nbsp;&nbsp;[![](https://jitpack.io/v/ir.alirezaivaz/PiracyChecker.svg)](https://jitpack.io/#ir.alirezaivaz/PiracyChecker)
 An Android library that examines the installation of malware for in-app purchase security
+
 _Owner & Author:  [Alireza Ivaz](https://alirezaivaz.ir/)_
 ## How to include
 Add the repository to your project  **build.gradle**:
